@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/mexcdf/svn/!svn/ver/4019/snctools/trunk/examples
+END
+nc_cf_grid_write_lat_lon_curvilinear_tutorial.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/mexcdf/svn/!svn/ver/3204/snctools/trunk/examples/nc_cf_grid_write_lat_lon_curvilinear_tutorial.m
+END

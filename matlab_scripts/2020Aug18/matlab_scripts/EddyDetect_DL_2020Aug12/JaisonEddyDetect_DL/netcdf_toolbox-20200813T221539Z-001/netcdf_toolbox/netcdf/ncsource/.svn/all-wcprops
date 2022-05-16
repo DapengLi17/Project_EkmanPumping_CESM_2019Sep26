@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncsource
+END
+mexcdf53.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncsource/mexcdf53.c
+END
+make_mexcdf53.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncsource/make_mexcdf53.m
+END
+mexcdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncsource/mexcdf.h
+END

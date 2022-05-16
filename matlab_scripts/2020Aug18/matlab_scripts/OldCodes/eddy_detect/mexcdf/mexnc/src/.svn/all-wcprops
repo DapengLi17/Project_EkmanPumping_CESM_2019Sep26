@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/p/mexcdf/svn/!svn/ver/3793/mexnc/trunk/src
+END
+mexopts.R2008a.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/mexcdf/svn/!svn/ver/2670/mexnc/trunk/src/mexopts.R2008a.bat
+END
+mexopts.R2006a.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/mexcdf/svn/!svn/ver/2572/mexnc/trunk/src/mexopts.R2006a.sh
+END
+mexopts.R2007a.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/mexcdf/svn/!svn/ver/2574/mexnc/trunk/src/mexopts.R2007a.sh
+END
+mexopts.R2006b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/mexcdf/svn/!svn/ver/2573/mexnc/trunk/src/mexopts.R2006b.sh
+END
+r2008a.mk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/mexcdf/svn/!svn/ver/2478/mexnc/trunk/src/r2008a.mk
+END
+mexopts.R2008a.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/mexcdf/svn/!svn/ver/3793/mexnc/trunk/src/mexopts.R2008a.sh
+END
+mexopts.R2007b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/mexcdf/svn/!svn/ver/2638/mexnc/trunk/src/mexopts.R2007b.sh
+END
+win32_make_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/mexcdf/svn/!svn/ver/2670/mexnc/trunk/src/win32_make_mexnc.m
+END
+mexopts.R2008b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/mexcdf/svn/!svn/ver/3793/mexnc/trunk/src/mexopts.R2008b.sh
+END
+mexopts.R2009a.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/mexcdf/svn/!svn/ver/2637/mexnc/trunk/src/mexopts.R2009a.sh
+END
+mexopts.R2009b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/mexcdf/svn/!svn/ver/2837/mexnc/trunk/src/mexopts.R2009b.sh
+END
+mexopts.R2008a.win64.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/2491/mexnc/trunk/src/mexopts.R2008a.win64.bat
+END
+win64_make_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/mexcdf/svn/!svn/ver/2491/mexnc/trunk/src/win64_make_mexnc.m
+END
+mexgateway.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/mexcdf/svn/!svn/ver/3793/mexnc/trunk/src/mexgateway.c
+END
+mexopts.R14sp1.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/mexcdf/svn/!svn/ver/2812/mexnc/trunk/src/mexopts.R14sp1.bat
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/mexcdf/svn/!svn/ver/2837/mexnc/trunk/src/README
+END
+mexnc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/mexcdf/svn/!svn/ver/3793/mexnc/trunk/src/mexnc.h
+END
+mexopts.R14sp3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/mexcdf/svn/!svn/ver/2602/mexnc/trunk/src/mexopts.R14sp3.sh
+END
+netcdf2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/mexcdf/svn/!svn/ver/2527/mexnc/trunk/src/netcdf2.c
+END
+netcdf3.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/mexcdf/svn/!svn/ver/2828/mexnc/trunk/src/netcdf3.c
+END
+mexopts.R13.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/mexcdf/svn/!svn/ver/2724/mexnc/trunk/src/mexopts.R13.bat
+END
+netcdf4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/mexcdf/svn/!svn/ver/3793/mexnc/trunk/src/netcdf4.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/mexcdf/svn/!svn/ver/2828/mexnc/trunk/src/common.c
+END
+netcdf2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/mexcdf/svn/!svn/ver/2468/mexnc/trunk/src/netcdf2.h
+END
+mexopts.R13.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/mexcdf/svn/!svn/ver/2720/mexnc/trunk/src/mexopts.R13.sh
+END
+netcdf3.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/mexcdf/svn/!svn/ver/2468/mexnc/trunk/src/netcdf3.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/mexcdf/svn/!svn/ver/2828/mexnc/trunk/src/makefile
+END
+netcdf4.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/mexcdf/svn/!svn/ver/3793/mexnc/trunk/src/netcdf4.h
+END

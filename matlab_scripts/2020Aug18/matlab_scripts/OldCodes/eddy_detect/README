@@ -1,0 +1,15 @@
+
+copy : from /work/jaison/L0/usw51/CUC/etrack_SLA_roms_circ_ssn_04
+
+
+
+1. to tune parameters, use eddy_viewer.m
+2. to identify eddies, eddy_tracker_sla_circ.m
+3. to track eddies, copy .nc files in pwd to store_track, cd to
+      store_track,  and edit eddy_tracker.m as required and 
+      run it.
+ 
+
+To do
++++++
+  Fix reference coast issue: Current code assumes Eastern Coast.

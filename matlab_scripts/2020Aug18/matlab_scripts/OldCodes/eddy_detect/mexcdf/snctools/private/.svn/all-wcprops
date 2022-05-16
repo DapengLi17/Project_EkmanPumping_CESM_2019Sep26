@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/mexcdf/svn/!svn/ver/4044/snctools/trunk/private
+END
+snc_opendap_open_2007b.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/3965/snctools/trunk/private/snc_opendap_open_2007b.m
+END
+nc_attput_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_attput_tmw.m
+END
+nc_adddim_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/2983/snctools/trunk/private/nc_adddim_tmw.m
+END
+nc_adddim_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_adddim_mexnc.m
+END
+nc_varrename_hdf4.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/mexcdf/svn/!svn/ver/3882/snctools/trunk/private/nc_varrename_hdf4.m
+END
+snc_get_varput_indexing.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/3838/snctools/trunk/private/snc_get_varput_indexing.m
+END
+nc_isunlimitedvar_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/3833/snctools/trunk/private/nc_isunlimitedvar_mexnc.m
+END
+nc_attput_hdf4_2011b.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/3700/snctools/trunk/private/nc_attput_hdf4_2011b.m
+END
+nc_addvar_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_addvar_mexnc.m
+END
+nc_getpref.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/mexcdf/svn/!svn/ver/3607/snctools/trunk/private/nc_getpref.m
+END
+nc_attget_hdf4.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_attget_hdf4.m
+END
+nc_isunlimitedvar_java.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/3947/snctools/trunk/private/nc_isunlimitedvar_java.m
+END
+nc_getvarinfo_java.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/3948/snctools/trunk/private/nc_getvarinfo_java.m
+END
+nc_addvar_hdf4.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_addvar_hdf4.m
+END
+snc_find_record_variable.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/snc_find_record_variable.m
+END
+snc_pp_strings.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/mexcdf/svn/!svn/ver/4044/snctools/trunk/private/snc_pp_strings.m
+END
+nc_varput_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/3941/snctools/trunk/private/nc_varput_mexnc.m
+END
+snc_format.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/snc_format.m
+END
+nc_getvarinfo_tmw_enhanced_h5.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_getvarinfo_tmw_enhanced_h5.m
+END
+nc_getvarinfo_hdf4_2011a.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_getvarinfo_hdf4_2011a.m
+END
+nc_getattsinfo_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/3946/snctools/trunk/private/nc_getattsinfo_tmw.m
+END
+nc_getdiminfo_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_getdiminfo_mexnc.m
+END
+nc_getvaridinfo_java.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_getvaridinfo_java.m
+END
+nc_info_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/3912/snctools/trunk/private/nc_info_mexnc.m
+END
+nc_info_hdf4_sd.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/3867/snctools/trunk/private/nc_info_hdf4_sd.m
+END
+nc_varput_hdf4.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_varput_hdf4.m
+END
+snc_get_indexing.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/4027/snctools/trunk/private/snc_get_indexing.m
+END
+nc_varget_java.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/mexcdf/svn/!svn/ver/4025/snctools/trunk/private/nc_varget_java.m
+END
+nc_attput_mex.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/3800/snctools/trunk/private/nc_attput_mex.m
+END
+nc_getdiminfo_hdf4.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_getdiminfo_hdf4.m
+END
+nc_getvarinfo_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/mexcdf/svn/!svn/ver/3887/snctools/trunk/private/nc_getvarinfo_tmw.m
+END
+nc_info_java.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/mexcdf/svn/!svn/ver/4010/snctools/trunk/private/nc_info_java.m
+END
+nc_getvarinfo_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_getvarinfo_mexnc.m
+END
+nc_getdiminfo_hdf4_2011a.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/3560/snctools/trunk/private/nc_getdiminfo_hdf4_2011a.m
+END
+nc_varget_hdf4_2011a.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/3928/snctools/trunk/private/nc_varget_hdf4_2011a.m
+END
+nc_getattinfo_java.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_getattinfo_java.m
+END
+snc_turnoff_log4j.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/mexcdf/svn/!svn/ver/3975/snctools/trunk/private/snc_turnoff_log4j.m
+END
+snc_read_backend.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/4011/snctools/trunk/private/snc_read_backend.m
+END
+nc_isvar_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/mexcdf/svn/!svn/ver/3829/snctools/trunk/private/nc_isvar_tmw.m
+END
+nc_varput_validate_indexing.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_varput_validate_indexing.m
+END
+nc_varget_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/4025/snctools/trunk/private/nc_varget_tmw.m
+END
+nc_varget_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/4025/snctools/trunk/private/nc_varget_mexnc.m
+END
+snc_write_backend.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/mexcdf/svn/!svn/ver/3877/snctools/trunk/private/snc_write_backend.m
+END
+nc_isunlimitedvar_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/3887/snctools/trunk/private/nc_isunlimitedvar_tmw.m
+END
+nc_attput_hdf4.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_attput_hdf4.m
+END
+nc_addvar_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_addvar_tmw.m
+END
+nc_attget_java.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/mexcdf/svn/!svn/ver/4010/snctools/trunk/private/nc_attget_java.m
+END
+nc_attget_hdf4_2011a.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/3560/snctools/trunk/private/nc_attget_hdf4_2011a.m
+END
+nc_info_tmw_enhanced_h5.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/3707/snctools/trunk/private/nc_info_tmw_enhanced_h5.m
+END
+nc_isunlimitedvar_hdf4.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_isunlimitedvar_hdf4.m
+END
+nc_varrename_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/3468/snctools/trunk/private/nc_varrename_tmw.m
+END
+nc_varput_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/3841/snctools/trunk/private/nc_varput_tmw.m
+END
+nc_getvarinfo_hdf4.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/3949/snctools/trunk/private/nc_getvarinfo_hdf4.m
+END
+nc_varrename_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_varrename_mexnc.m
+END
+nc_addvar_hdf4_2011b.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_addvar_hdf4_2011b.m
+END
+nc_getdiminfo_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/mexcdf/svn/!svn/ver/3983/snctools/trunk/private/nc_getdiminfo_tmw.m
+END
+nc_attget_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/3829/snctools/trunk/private/nc_attget_tmw.m
+END
+nc_getattsinfo_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_getattsinfo_mexnc.m
+END
+nc_attget_mexnc.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/3829/snctools/trunk/private/nc_attget_mexnc.m
+END
+nc_info_tmw.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/mexcdf/svn/!svn/ver/3973/snctools/trunk/private/nc_info_tmw.m
+END
+nc_getdiminfo_java.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_getdiminfo_java.m
+END
+nc_adddim_hdf4.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_adddim_hdf4.m
+END
+nc_getattsinfo_java.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/mexcdf/svn/!svn/ver/3642/snctools/trunk/private/nc_getattsinfo_java.m
+END
+snc_opendap_open.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/3965/snctools/trunk/private/snc_opendap_open.m
+END
+nc_varput_hdf4_2011b.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_varput_hdf4_2011b.m
+END
+nc_adddim_hdf4_2011b.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_adddim_hdf4_2011b.m
+END
+nc_varget_hdf4.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/mexcdf/svn/!svn/ver/3928/snctools/trunk/private/nc_varget_hdf4.m
+END
+nc_info_hdf4.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/mexcdf/svn/!svn/ver/3894/snctools/trunk/private/nc_info_hdf4.m
+END

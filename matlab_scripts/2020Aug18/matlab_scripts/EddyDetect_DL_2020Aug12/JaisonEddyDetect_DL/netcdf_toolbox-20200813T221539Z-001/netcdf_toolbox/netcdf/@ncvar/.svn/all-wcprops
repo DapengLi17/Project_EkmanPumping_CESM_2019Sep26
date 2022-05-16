@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/mexcdf/svn/!svn/ver/2853/netcdf_toolbox/trunk/netcdf/@ncvar
+END
+version.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/version.m
+END
+scalefactor.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/scalefactor.m
+END
+var.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/var.m
+END
+fillval.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/fillval.m
+END
+ncsize.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/ncsize.m
+END
+mesh.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/mesh.m
+END
+slice.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/slice.m
+END
+addoffset.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/addoffset.m
+END
+foo.nc.copy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/foo.nc.copy
+END
+subsasgn.m-OLD
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/subsasgn.m-OLD
+END
+resize.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/resize.m
+END
+iscoord.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/iscoord.m
+END
+subsindex.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/subsindex.m
+END
+gt.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/gt.m
+END
+image.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/image.m
+END
+subsref.m-OLD
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/subsref.m-OLD
+END
+subsasgn.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/subsasgn.m
+END
+att.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/att.m
+END
+contour.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/contour.m
+END
+subsref_original.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/subsref_original.m
+END
+orient.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/orient.m
+END
+isscalar.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/isscalar.m
+END
+browse.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/browse.m
+END
+dim.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/dim.m
+END
+subsref.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/mexcdf/svn/!svn/ver/2853/netcdf_toolbox/trunk/netcdf/@ncvar/subsref.m
+END
+ncvar.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/mexcdf/svn/!svn/ver/2529/netcdf_toolbox/trunk/netcdf/@ncvar/ncvar.m
+END
+copy.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/copy.m
+END
+datatype.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/datatype.m
+END
+isepic.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/isepic.m
+END
+subs.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/subs.m
+END
+plot.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/plot.m
+END
+surf.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/surf.m
+END
+lt.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/lt.m
+END
+numel.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/@ncvar/numel.m
+END

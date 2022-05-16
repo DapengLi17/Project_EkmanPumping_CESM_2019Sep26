@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/mexcdf/svn/!svn/ver/4052/snctools/trunk/tests
+END
+test_nc_isdim.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/mexcdf/svn/!svn/ver/3986/snctools/trunk/tests/test_nc_isdim.m
+END
+test_nc_cat.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/mexcdf/svn/!svn/ver/3814/snctools/trunk/tests/test_nc_cat.m
+END
+test_nc_addhist_neg.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/mexcdf/svn/!svn/ver/3895/snctools/trunk/tests/test_nc_addhist_neg.m
+END
+test_nc_varrename_neg.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/mexcdf/svn/!svn/ver/3897/snctools/trunk/tests/test_nc_varrename_neg.m
+END
+test_nc_attput_neg.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/4012/snctools/trunk/tests/test_nc_attput_neg.m
+END
+test_nc_adddim_neg.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/3977/snctools/trunk/tests/test_nc_adddim_neg.m
+END
+test_nc_iscoordvar.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/3398/snctools/trunk/tests/test_nc_iscoordvar.m
+END
+test_nc_varsize_neg.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/mexcdf/svn/!svn/ver/3951/snctools/trunk/tests/test_nc_varsize_neg.m
+END
+test_nc_addnewrecs.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/3881/snctools/trunk/tests/test_nc_addnewrecs.m
+END
+netcdf4_capable.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/3537/snctools/trunk/tests/netcdf4_capable.m
+END
+test_nc_varput.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/mexcdf/svn/!svn/ver/3840/snctools/trunk/tests/test_nc_varput.m
+END
+test_nc_varget_neg.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/3896/snctools/trunk/tests/test_nc_varget_neg.m
+END
+test_nc_create_empty.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/mexcdf/svn/!svn/ver/3379/snctools/trunk/tests/test_nc_create_empty.m
+END
+test_nc_isvar.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/mexcdf/svn/!svn/ver/3440/snctools/trunk/tests/test_nc_isvar.m
+END
+test_nc_getdiminfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/3819/snctools/trunk/tests/test_nc_getdiminfo.m
+END
+test_snc2mat.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/mexcdf/svn/!svn/ver/3940/snctools/trunk/tests/test_snc2mat.m
+END
+test_nc_varget_neg_opendap.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/3814/snctools/trunk/tests/test_nc_varget_neg_opendap.m
+END
+test_nc_attget.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/mexcdf/svn/!svn/ver/3817/snctools/trunk/tests/test_nc_attget.m
+END
+test_thredds_info.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/4035/snctools/trunk/tests/test_thredds_info.m
+END
+test_nc_info.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/mexcdf/svn/!svn/ver/4050/snctools/trunk/tests/test_nc_info.m
+END
+verify_netcdf4.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/mexcdf/svn/!svn/ver/2831/snctools/trunk/tests/verify_netcdf4.m
+END
+test_nc_datatype_string.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/3357/snctools/trunk/tests/test_nc_datatype_string.m
+END
+test_nc_getlast.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/3391/snctools/trunk/tests/test_nc_getlast.m
+END
+test_nc_getvarinfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/3819/snctools/trunk/tests/test_nc_getvarinfo.m
+END
+test_nc_dump.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/mexcdf/svn/!svn/ver/4035/snctools/trunk/tests/test_nc_dump.m
+END
+test_nc_addrecs.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/3517/snctools/trunk/tests/test_nc_addrecs.m
+END
+test_nc_cat_a.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/mexcdf/svn/!svn/ver/3274/snctools/trunk/tests/test_nc_cat_a.m
+END
+test_nc_addnewrecs_neg.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/3895/snctools/trunk/tests/test_nc_addnewrecs_neg.m
+END
+test_nc_getall.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/mexcdf/svn/!svn/ver/3589/snctools/trunk/tests/test_nc_getall.m
+END
+test_nc_diff.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/mexcdf/svn/!svn/ver/3548/snctools/trunk/tests/test_nc_diff.m
+END
+test_nc_getbuffer.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/3391/snctools/trunk/tests/test_nc_getbuffer.m
+END
+test_nc_varput_neg.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/3896/snctools/trunk/tests/test_nc_varput_neg.m
+END
+test_nc_vargetr.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/4028/snctools/trunk/tests/test_nc_vargetr.m
+END
+test_local_system.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/3810/snctools/trunk/tests/test_local_system.m
+END
+test_nc_addhist.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/3875/snctools/trunk/tests/test_nc_addhist.m
+END
+test_nc_varrename.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/mexcdf/svn/!svn/ver/3896/snctools/trunk/tests/test_nc_varrename.m
+END
+test_nc_attget_neg.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/4012/snctools/trunk/tests/test_nc_attget_neg.m
+END
+test_nc_attput.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/mexcdf/svn/!svn/ver/4012/snctools/trunk/tests/test_nc_attput.m
+END
+test_nc_adddim.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/mexcdf/svn/!svn/ver/3879/snctools/trunk/tests/test_nc_adddim.m
+END
+test_nc_varsize.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/mexcdf/svn/!svn/ver/3884/snctools/trunk/tests/test_nc_varsize.m
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/mexcdf/svn/!svn/ver/4022/snctools/trunk/tests/README
+END
+test_opendap_local_system.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/3969/snctools/trunk/tests/test_opendap_local_system.m
+END
+test_nc_isatt.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/mexcdf/svn/!svn/ver/3548/snctools/trunk/tests/test_nc_isatt.m
+END
+test_nc_varget.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/mexcdf/svn/!svn/ver/4043/snctools/trunk/tests/test_nc_varget.m
+END
+run_snctools_tests.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/mexcdf/svn/!svn/ver/4041/snctools/trunk/tests/run_snctools_tests.m
+END
+test_nc_isunlimitedvar.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/3885/snctools/trunk/tests/test_nc_isunlimitedvar.m
+END
+test_nc_addvar.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/mexcdf/svn/!svn/ver/4012/snctools/trunk/tests/test_nc_addvar.m
+END

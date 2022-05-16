@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/mexcdf/svn/!svn/ver/2722/netcdf_toolbox/trunk/netcdf/ncutility
+END
+ncclose.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncclose.m
+END
+ncclass.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncclass.m
+END
+ncverbose.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncverbose.m
+END
+tncdotted.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/tncdotted.m
+END
+ncdumpd.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncdumpd.m
+END
+partnames.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/partnames.m
+END
+maprect.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/maprect.m
+END
+nctrim.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/nctrim.m
+END
+ncdumph.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncdumph.m
+END
+switchsafe.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/switchsafe.m
+END
+geturl.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/geturl.m
+END
+ncmkmask.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncmkmask.m
+END
+guido.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/guido.m
+END
+mapsubs.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/mapsubs.m
+END
+ncexample.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncexample.m
+END
+modplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/modplot.m
+END
+ncind2slab.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncind2slab.m
+END
+fcopy.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/fcopy.m
+END
+numel_default.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/numel_default.m
+END
+ncutility.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncutility.m
+END
+ncnames.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncnames.m
+END
+findpt.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/findpt.m
+END
+tnc4ml5.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/tnc4ml5.m
+END
+ncind2sub.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncind2sub.m
+END
+nccat.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/nccat.m
+END
+vargstr.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/vargstr.m
+END
+tscalar.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/tscalar.m
+END
+ncrecget.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncrecget.m
+END
+ncswap.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncswap.m
+END
+netcdf_bundle.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/netcdf_bundle.m
+END
+tncmex.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/tncmex.m
+END
+ncweb.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncweb.m
+END
+movie1.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/movie1.m
+END
+ncload.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncload.m
+END
+ncmovie.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncmovie.m
+END
+ncdimadd.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncdimadd.m
+END
+ncdim2rec.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncdim2rec.m
+END
+ncquiet.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncquiet.m
+END
+ncmex.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncmex.m
+END
+uilayout.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/2599/netcdf_toolbox/trunk/netcdf/ncutility/uilayout.m
+END
+ncsave.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncsave.m
+END
+tncorder.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/tncorder.m
+END
+busy.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/busy.m
+END
+zoomsafe.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/zoomsafe.m
+END
+ncrecput.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncrecput.m
+END
+nc2mat.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/nc2mat.m
+END
+mat2nc.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/mat2nc.m
+END
+ncdump.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncdump.m
+END
+ncfillvalues.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncfillvalues.m
+END
+tnetcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/2722/netcdf_toolbox/trunk/netcdf/ncutility/tnetcdf.m
+END
+ncmemory.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncmemory.m
+END
+ncrectest.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncrectest.m
+END
+getinfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/getinfo.m
+END
+ncsize.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncsize.m
+END
+super.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/super.m
+END
+ncans.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncans.m
+END
+ncrecinq.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncrecinq.m
+END
+var2str.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/var2str.m
+END
+nc2cdl.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/nc2cdl.m
+END
+tncbig.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/tncbig.m
+END
+setinfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/setinfo.m
+END
+idle.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/idle.m
+END
+ncpath.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncpath.m
+END
+labelsafe.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/labelsafe.m
+END
+ncwhatsnew.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncwhatsnew.m
+END
+parts.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/parts.m
+END
+ncillegal.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncillegal.m
+END
+tmexcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/tmexcdf.m
+END
+ncextract.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncextract.m
+END
+nccheck.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/nccheck.m
+END
+stackplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/stackplot.m
+END
+ncbevent.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncbevent.m
+END
+ncversion.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncversion.m
+END
+mexcdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/mexcdf.m
+END
+geturl.mac
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/geturl.mac
+END
+ncclear.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncclear.m
+END
+begets.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/begets.m
+END
+filesafe.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/filesafe.m
+END
+rbrect.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/rbrect.m
+END
+ncstartup.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/mexcdf/svn/!svn/ver/1538/netcdf_toolbox/trunk/netcdf/ncutility/ncstartup.m
+END
